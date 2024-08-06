@@ -1,0 +1,22 @@
+.navbar navbar-expand-lg navbar-light bg-light {
+    min-height: 100px;
+}
+
+.about{
+    min-height: 500px;
+    color: blueviolet;
+}
+
+.bg-secondary.bg-gradient{
+    background-image: var(rgb(106, 35, 173));
+}
+
+.projects{
+    min-height: 500px;
+    enable-background: #666;
+}
+
+.contact{
+    min-height: 500px;
+    color: #666;
+}
