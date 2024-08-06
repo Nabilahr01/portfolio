@@ -7,8 +7,8 @@
     color: blueviolet;
 }
 
-.bg-secondary.bg-gradient{
-    background-image: var(rgb(106, 35, 173));
+.hero{
+    min-height: 100px;
 }
 
 .projects{
